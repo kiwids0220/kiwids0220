@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... OSCP Journey
+- 🔭 I’m currently working on ... [link]OSCP Journey
 - 🌱 I’m currently learning ... Hmmmm, just something.  
 - 👯 I’m looking to collaborate on ... Python scripts to increase the productivity of reconing.
 - 🤔 I’m looking for help with ... IP routing.
