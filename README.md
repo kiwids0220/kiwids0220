@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning Python automation and data filtering, PHP, Javascript.  
 
-- 🤔 I’m looking for help with ... IP routing.
-
 - 📫 How to reach me: ... kxh170006@utdallas.edu 
 
 - ⚡ Fun fact: ...  My name is kaiisnt'myname
