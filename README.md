@@ -1,10 +1,16 @@
 ### Hi there 👋
--Please go check out my gitbook page here [link]https://app.gitbook.com/@huangkx2015/s/kiwids-docs/
+-Please go check out my gitbook page here [link]https://app.gitbook.com/@huangkx2015/s/kiwids-docs/.
+
 -🔭 I’m currently working on  [https://app.gitbook.com/@huangkx2015/s/kiwids-docs/] OSCP Journey also THM box deving.
+
 -🌱 I’m currently learning Python automation and data filtering, PHP, Javascript.  
+
 - 🤔 I’m looking for help with ... IP routing.
+
 -📫 How to reach me: ... kxh170006@utdallas.edu 
+
 - ⚡ Fun fact: ...  My name is kaiisnt'myname
+
 -->
 
 <!--
