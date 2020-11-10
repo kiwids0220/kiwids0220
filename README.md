@@ -1,7 +1,7 @@
 ### Hi there 👋
 -Please go check out my gitbook page here [GitBook](https://app.gitbook.com/@huangkx2015/s/kiwids-docs/)
 
--🔭 I’m currently working on  [OSCP Journey also THM box deving.] (https://app.gitbook.com/@huangkx2015/s/kiwids-docs/)
+-🔭 I’m currently working on  [OSCP Journey also THM box deving.](https://app.gitbook.com/@huangkx2015/s/kiwids-docs/oscp-road-trip)
 
 -🌱 I’m currently learning Python automation and data filtering, PHP, Javascript.  
 
