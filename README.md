@@ -1,5 +1,6 @@
 ### Hi there 👋
 -Please go check out my gitbook page here [GitBook](https://app.gitbook.com/@huangkx2015/s/kiwids-docs/)
+                     and my notion notebook[Notion].(https://www.notion.so/kiwids/Wonderland-23687c4bbeed4731a7c665ce72f8a3ea)
 
 - 🔭 I’m currently working on  [OSCP Journey also THM box deving.](https://app.gitbook.com/@huangkx2015/s/kiwids-docs/oscp-road-trip)
 
