@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Python automation and data filtering, PHP, Javascript.  
 
-- 📫 How to reach me: ... kxh170006@utdallas.edu 
+- 📫 How to reach me: ... Twitter @mhskai2017
 
 - ⚡ Fun fact: ...  My name is kaiisnt'myname
 
