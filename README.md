@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Windows Internal Deep Diving & AD security research]
 
-- 🌱 I’m currently learning Python automation and data filtering, PHP, Javascript.  
+- 🌱 Just chilling 
 
 - 📫 How to reach me: ... Twitter @mhskai2017
 
