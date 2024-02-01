@@ -1,6 +1,5 @@
 ### Hi there 👋
-- Please go check out my Notion notebook [Notion](https://www.notion.so/kiwids/Wonderland-23687c4bbeed4731a7c665ce72f8a3ea)
-                     and my gitbook page here [GitBook](https://app.gitbook.com/@huangkx2015/s/kiwids-docs/) (no longer maintained)
+- Please go check out my website [kiwi](https://www.kiwids.me/) and Notion notebook [Notion](https://www.notion.so/kiwids/Wonderland-23687c4bbeed4731a7c665ce72f8a3ea)
 
 - 🔭 I’m currently working on [Windows Internal Deep Diving & AD security research]
 
